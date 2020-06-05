@@ -11,9 +11,9 @@ library("edgeR")
 library("limma")
 library("statmod")
 library("EDASeq")
+library("RColorBrewer")
 
 ##assign color from RColorBrewer
-library(RColorBrewer)
 colors <- brewer.pal(12, "Paired")
 
 ##read in raw count data, row names are locus tags
