@@ -8,3 +8,5 @@ The Article has been published to G3: Gene, Genomes, Genetics: https://academic.
 The Pre-printe is available: BioRxiv: https://www.biorxiv.org/content/10.1101/2020.08.31.276279v1
 
 For inqueries please contact Amber[dot]Rose[dot]Paulson[at]gmail[dot]com
+
+Licensed under Creative Commons Attribution-NonCommercial-NoDerivatives (CC-BY-NC-ND) [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/) - see: https://github.com/damselflywingz/In_vivo_infection_series_fuzzy_RNA-seq/blob/master/LICENSE.md
