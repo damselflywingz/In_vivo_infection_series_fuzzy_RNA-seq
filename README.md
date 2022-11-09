@@ -9,4 +9,4 @@ The Pre-printe is available: BioRxiv: https://www.biorxiv.org/content/10.1101/20
 
 For inqueries please contact Amber[dot]Rose[dot]Paulson[at]gmail[dot]com
 
-Licensed under Creative Commons Attribution-NonCommercial-NoDerivatives (CC-BY-NC-ND) [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/) - see: https://github.com/damselflywingz/In_vivo_infection_series_fuzzy_RNA-seq/blob/master/LICENSE.md
+Licensed under Creative Commons Attribution 4.0 International (CC-BY 4.0) [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
